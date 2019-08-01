@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monstersfinder/static/css/main.1a9217cf.chunk.css",
+    "main.js": "/monstersfinder/static/js/main.c7553ff7.chunk.js",
+    "main.js.map": "/monstersfinder/static/js/main.c7553ff7.chunk.js.map",
+    "runtime~main.js": "/monstersfinder/static/js/runtime~main.bd42f7ef.js",
+    "runtime~main.js.map": "/monstersfinder/static/js/runtime~main.bd42f7ef.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/monstersfinder/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/monstersfinder/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/monstersfinder/index.html",
+    "precache-manifest.2e51dca65368c7704afc87e3787d78c2.js": "/monstersfinder/precache-manifest.2e51dca65368c7704afc87e3787d78c2.js",
+    "service-worker.js": "/monstersfinder/service-worker.js",
+    "static/css/main.1a9217cf.chunk.css.map": "/monstersfinder/static/css/main.1a9217cf.chunk.css.map"
+  }
+}
